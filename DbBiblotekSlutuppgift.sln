@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbBiblotekSlutuppgift", "DbBiblotekSlutuppgift.csproj", "{FDB1D82E-6B05-454B-B421-757CB7363168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB1D82E-6B05-454B-B421-757CB7363168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB1D82E-6B05-454B-B421-757CB7363168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB1D82E-6B05-454B-B421-757CB7363168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB1D82E-6B05-454B-B421-757CB7363168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA435D0E-2F62-407A-BA8D-8F5FB7D2646E}
+	EndGlobalSection
+EndGlobal
